@@ -1,4 +1,4 @@
-# TeamAtoZ - SpringBoot 맞춤형 스마트티켓 전송 서비스
+# SpringBoot 기반 맞춤형 스마트티켓 전송 서비스
 
 
 ## 프로젝트 개요
